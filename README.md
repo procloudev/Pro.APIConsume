@@ -4,7 +4,7 @@
 This is an open-source repo. If you would like to add something or correct a mistake, please open a PR.
 
 # Pro.APIConsume 🚀
-A web API  that fetches and display data from [Helsinki Region Transport HSL Open Data](https://www.hsl.fi/en/hsl/open-data) - Park &amp; Ride Information System API. 
+A web API  that fetches and display data from [Helsinki Region Transport HSL Open Data](https://www.hsl.fi/en/hsl/open-data) - Park &amp; Ride Information System REST APIs. 
 
 ## Table of contents
 Welcome to my new single-page application, built with:
